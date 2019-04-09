@@ -1,6 +1,6 @@
 # nyu-travis-ci
 
-[![Build Status](https://travis-ci.org/customers-devops-2019/customers.svg?branch=master)](https://travis-ci.org/customers-devops-2019/customers)
+[![Build Status](https://travis-ci.org/tedwatson/lab-travis-ci.svg?branch=master)](https://travis-ci.org/tedwatson/lab-travis-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
